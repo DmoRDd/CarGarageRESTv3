@@ -1,0 +1,11 @@
+[2026-09-17T18:12:25.945Z] - GET request to /
+[2026-09-17T18:13:04.964Z] - GET request to /
+[2026-09-17T18:13:16.905Z] - POST request to /garage
+[2026-09-17T18:13:55.628Z] - POST request to /garage
+[2026-09-17T18:13:59.765Z] - POST request to /garage
+[2026-09-17T18:14:02.688Z] - GET request to /garage
+[2026-09-17T18:14:38.878Z] - GET request to /garage?sortByHp=ascending
+[2026-09-17T18:14:48.100Z] - GET request to /garage?sortByHp=descending
+[2026-09-17T18:15:28.417Z] - GET request to /garage?sortByHp=descending
+[2026-09-17T18:15:32.005Z] - GET request to /garage?sortByHp=descending
+[2026-09-17T18:15:33.369Z] - GET request to /garage?sortByHp=descending
